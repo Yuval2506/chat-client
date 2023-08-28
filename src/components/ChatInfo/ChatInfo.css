@@ -1,0 +1,9 @@
+.chat-info-div{
+    display: flex;
+}
+
+.pic-info{
+    height: 64px;
+    width: 64px;
+}
+
