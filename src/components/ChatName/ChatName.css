@@ -1,0 +1,12 @@
+.chat-message-div{
+    border: solid;
+    display:flex;
+    background-color: #E0E0E0	;
+    display: flex;
+    color:#383838;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    height:64px;
+}

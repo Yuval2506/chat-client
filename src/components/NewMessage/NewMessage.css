@@ -1,0 +1,11 @@
+.new-message-div{
+    position: absolute;
+    width: 67%;
+    bottom: 0;
+    border:solid;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    background-color: #E0E0E0	;
+}

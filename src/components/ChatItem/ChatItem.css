@@ -1,0 +1,12 @@
+.chat-item-div{
+    display: flex;
+    flex-direction: row;
+    border:solid;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-color: dimgray;
+    background-color: #F5F5F5;
+    color:#383838;
+}
